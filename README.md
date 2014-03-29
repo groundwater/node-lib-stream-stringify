@@ -2,6 +2,8 @@
 
 > strings to streams
 
+[![Build Status](https://travis-ci.org/groundwater/node-lib-stream-stringify.svg?branch=master)](https://travis-ci.org/groundwater/node-lib-stream-stringify)
+
 ## install
 
 ```bash
