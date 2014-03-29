@@ -9,3 +9,11 @@ test(function (t) {
     t.end();
   }));
 });
+
+test(function (t) {
+  var a = "Hello World";
+  var x = stringy(a).read(5);
+
+  t.equal(x.toString(), 'Hello');
+  t.end();
+});
